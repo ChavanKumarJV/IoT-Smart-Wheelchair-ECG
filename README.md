@@ -23,3 +23,12 @@ Designed and engineered a cost-effective, dual-system assistive mobility and bio
 * **Biomedical Sensing:** ECG Analog Front-End Sensor Module (AD8232), 3-Lead Biopotential Electrodes
 * **Wireless & IoT Interface:** HC-05 / Bluetooth Serial Telemetry & Navigation Module
 * **Drivetrain & Power:** Dual H-Bridge Motor Driver, High-Torque DC Gear Motors, Regulated Split-Rail Power Supply
+
+---
+
+### Demo
+
+
+
+https://github.com/user-attachments/assets/2fc7f208-9429-4054-8c12-cf9317a2bcaa
+
