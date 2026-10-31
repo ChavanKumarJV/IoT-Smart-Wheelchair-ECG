@@ -32,3 +32,5 @@ Designed and engineered a cost-effective, dual-system assistive mobility and bio
 
 https://github.com/user-attachments/assets/2fc7f208-9429-4054-8c12-cf9317a2bcaa
 
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-31 at 11 04 33" src="https://github.com/user-attachments/assets/d9479705-a88f-4381-b5de-2d16f6ff4d82" />
